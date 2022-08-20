@@ -11,3 +11,6 @@ Other features such as lifeline are available to keep the gameshow interesting.
 - The only lifeline in the system is where the options changes from 4 to 2
 - There is no monetary reward there is only a scoreboard.
 - You can add/remove questions into the game.
+
+## How do I play the game
+Instructions are available [here](https://github.com/Shirish-Kumar/kbc-game/releases)
